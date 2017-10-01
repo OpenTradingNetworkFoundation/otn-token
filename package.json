@@ -1,0 +1,27 @@
+{
+  "name": "otn-token",
+  "version": "1.0.0",
+  "description": "Open Trading Network token",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenTradingNetworkFoundation/otn-token.git"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OpenTradingNetworkFoundation/otn-token/issues"
+  },
+  "homepage": "https://github.com/OpenTradingNetworkFoundation/otn-token",
+  "devDependencies": {
+    "ethereumjs-testrpc": "^4.1.3",
+    "truffle": "^3.4.6"
+  },
+  "dependencies": {},
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Open Trading Network Foundation"
+}
